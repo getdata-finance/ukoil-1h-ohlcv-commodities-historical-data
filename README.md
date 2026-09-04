@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `UKOIL_1h.csv` (927 rows, `2026-07-01` -> `2026-09-02`, 76.59 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/ukoil)** — **89,526** `1h` rows (full `1m`: 5,237,943), **11 timeframes**, `2010-02-01` -> `2026-09-02`.
+> **Sample on GitHub** · `UKOIL_1h.csv` (924 rows, `2026-07-02` -> `2026-09-02`, 76.38 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/ukoil)** — **89,526** `1h` rows (full `1m`: 5,228,763), **11 timeframes**, `2010-02-01` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Brent Crude Oil · Commodities | Brent Crude Oil · Commodities |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 927 | **89,526** |
-| Size | 76.59 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/ukoil) |
-| Period | `2026-07-01` -> `2026-09-02` | `2010-02-01` -> `2026-09-02` |
+| 1h rows | 924 | **89,526** |
+| Size | 76.38 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/ukoil) |
+| Period | `2026-07-02` -> `2026-09-02` | `2010-02-01` -> `2026-09-02` |
 | File | `UKOIL_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/ukoil) |
 | Coverage report | — | [UKOIL coverage](https://getdata.finance/coverage/ukoil) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`UKOIL_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-01T18:00:00+00:00 | 71.359 | 71.7 | 71.251 | 71.365 | 6082 |
-| 2026-07-01T19:00:00+00:00 | 71.365 | 71.386 | 71.004 | 71.109 | 3008 |
-| 2026-07-01T20:00:00+00:00 | 71.109 | 71.222 | 71.061 | 71.151 | 1775.89986 |
 | 2026-07-02T00:00:00+00:00 | 71.151 | 71.161 | 70.811 | 70.982 | 1834.18694 |
 | 2026-07-02T01:00:00+00:00 | 70.982 | 71.035 | 70.645 | 70.861 | 4766 |
+| 2026-07-02T02:00:00+00:00 | 70.861 | 71.07 | 70.7 | 70.747 | 2745 |
+| 2026-07-02T03:00:00+00:00 | 70.747 | 70.817 | 70.61 | 70.727 | 2053 |
+| 2026-07-02T04:00:00+00:00 | 70.727 | 70.9 | 70.72 | 70.881 | 873 |
 
 **Last rows**
 
